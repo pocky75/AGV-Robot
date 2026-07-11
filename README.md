@@ -131,3 +131,14 @@ framework = arduino
 lib_deps = 
     miguelbalboa/MFRC522@^2.0.0
 monitor_speed = 9600
+```
+
+### 시연영상 및 실행화면
+
+# 대회 주행 영상
+
+# 실행화면
+ vscode + platformIO 
+# 시리얼모니터 연결성공로그 
+
+# 시리얼통신 연결확인
