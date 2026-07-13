@@ -134,3 +134,4 @@ https://github.com/user-attachments/assets/80266583-f823-4c2e-b8cb-82a7a4f56452
 # 시리얼모니터 연결성공로그 
 
 # 시리얼통신 연결확인
+
