@@ -145,7 +145,7 @@ void executePath(const char* path, int basePower) {
   Stop();
 }
 ```
-### 2. IR 센서 기반 라인 트레이싱 보정 코드
+### 2. IR 센서 기반 라인 트레이싱 보정 
 ```
 void moveIrForward(int power) { 
   while (true) {
@@ -192,9 +192,31 @@ void waitCardTag() {
   }
 }
 ```
+### 5. PID 코드
+```
+float Power1Ratio = 0.99;//0.95; // 왼쪽 모터 속도 보정비율 (최대= 1.0)
+float Power2Ratio = 1.00;//1.00; // 오른쪽 모터 속도 보정비율 (최대= 1.0)
+
+float Kp = 25.0;  // 비례 게인 (P): 현재 오차에 비례하여 보정
+float Ki = 0.0;   // 적분 게인 (I): 누적 오차 보정
+float Kd = 15.0;  // 미분 게인 (D): 오차 변화율 예측
+
+float prev_error = 0.0;
+float integral = 0.0;
+```
+좌우로 심하게 흔들릴 때 : Kp 값 낮추기
+라인을 따라가지 못하고 계속 벗어날 때 : Kp 값 높이기 
+보정 시 덜덜 떨릴 때 : Kd 값 조금 높이기 
+
+### 시연영상 및 프로젝트 사진
+
+# 프로젝트 사진
+
+<img width="3024" height="4032" alt="KakaoTalk_20260713_153728305" src="https://github.com/user-attachments/assets/bd3c3454-34c0-4894-a538-3abfeb9f6362" />
+<img width="3024" height="4032" alt="KakaoTalk_20260713_153728305_04" src="https://github.com/user-attachments/assets/e4231f61-0206-4045-bf6d-f80a8ecd92d2" />
+<img width="3024" height="4032" alt="KakaoTalk_20260713_153728305_02" src="https://github.com/user-attachments/assets/1a36fe41-c800-4f80-a885-baf8117106d9" />
 
 
-### 시연영상
 
 # 시연영상
 https://github.com/user-attachments/assets/80266583-f823-4c2e-b8cb-82a7a4f56452
