@@ -8,7 +8,6 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-VSCode-orange.svg)
 ![RFID](https://img.shields.io/badge/RFID-Sensor-green.svg)
 ![Award](https://img.shields.io/badge/Award-WCRC_2025_우수상-gold.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **RFID 기반 자율 물류 이송 AGV 시스템**
 
