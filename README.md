@@ -192,15 +192,11 @@ void waitCardTag() {
   }
 }
 ```
-### 시연영상 및 실행화면
+
+
+### 시연영상
 
 # 시연영상
 https://github.com/user-attachments/assets/80266583-f823-4c2e-b8cb-82a7a4f56452
 
-
-# 실행화면
- vscode + platformIO 
-# 시리얼모니터 연결성공로그 
-
-# 시리얼통신 연결확인
 
