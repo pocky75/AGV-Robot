@@ -212,13 +212,9 @@ float integral = 0.0;
 
 # 프로젝트 사진
 
-<img width="3024" height="4032" alt="KakaoTalk_20260713_153728305" src="https://github.com/user-attachments/assets/bd3c3454-34c0-4894-a538-3abfeb9f6362" />
-
-
-<img width="3024" height="4032" alt="KakaoTalk_20260713_153728305_04" src="https://github.com/user-attachments/assets/e4231f61-0206-4045-bf6d-f80a8ecd92d2" />
-
-
-<img width="3024" height="4032" alt="KakaoTalk_20260713_153728305_02" src="https://github.com/user-attachments/assets/1a36fe41-c800-4f80-a885-baf8117106d9" />
+<img width="1024" height="2032" alt="KakaoTalk_20260713_153728305" src="https://github.com/user-attachments/assets/bd3c3454-34c0-4894-a538-3abfeb9f6362" />
+<img width="1024" height="2032" alt="KakaoTalk_20260713_153728305_04" src="https://github.com/user-attachments/assets/e4231f61-0206-4045-bf6d-f80a8ecd92d2" />
+<img width="1024" height="2032" alt="KakaoTalk_20260713_153728305_02" src="https://github.com/user-attachments/assets/1a36fe41-c800-4f80-a885-baf8117106d9" />
 
 
 
