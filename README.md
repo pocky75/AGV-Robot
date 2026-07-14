@@ -215,6 +215,8 @@ float integral = 0.0;
 <img width="300" height="400" alt="KakaoTalk_20260713_153728305" src="https://github.com/user-attachments/assets/bd3c3454-34c0-4894-a538-3abfeb9f6362" />
 <img width="300" height="400" alt="KakaoTalk_20260713_153728305_04" src="https://github.com/user-attachments/assets/e4231f61-0206-4045-bf6d-f80a8ecd92d2" />
 <img width="300" height="400" alt="KakaoTalk_20260713_153728305_02" src="https://github.com/user-attachments/assets/1a36fe41-c800-4f80-a885-baf8117106d9" />
+<img width="300" height="400" alt="KakaoTalk_20260713_153728305_03" src="https://github.com/user-attachments/assets/49b30bdc-1725-439f-9e10-32d6228c97b1" />
+
 
 
 # 시연영상
