@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-Arduino-blue.svg)
+![C++](https://img.shields.io/badge/C++-Arduino-blue.svg)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-VSCode-orange.svg)
 ![RFID](https://img.shields.io/badge/RFID-Sensor-green.svg)
 ![Award](https://img.shields.io/badge/Award-WCRC_2025_우수상-gold.svg)
